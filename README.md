@@ -1,14 +1,15 @@
 <!-- ### Wukong CRM9.0 (JAVA version)
-Wukong Software has long provided enterprises with integrated information services in the development, implementation, marketing, consulting, training and service of Business Management Software(CRM/HRM/OA/ERP, etc.). Upholding high-tech as our starting point, technology as the core and perfect after-sale service as our backing, with the spirit of steady development and constant innovation, we have provided services for thousands of enterprises at home and abroad.
+Wukong Software fournit depuis longtemps aux entreprises des services d'information intégrant la R&D, la mise en œuvre, le marketing, le conseil, la formation et le service de logiciels de gestion d'entreprise (CRM / HRM / OA / ERP, etc.). Wukong Software prend la haute technologie comme point de départ, la technologie comme noyau et un service après-vente parfait comme support, adhérant à l'esprit de stabilité et de développement, de recherche de la vérité et d'innovation, et a fourni des services à des milliers d'entreprises au pays et à l'étranger.
 
+Le développement de Wukong a bénéficié de l'open source et contribuera également à l'open source. En 2019, Wukong CRM continuera à défendre le concept de «faire preuve d'ouverture, de coopération gagnant-gagnant et de créer de la valeur», continuera à aller de l'avant sur la voie de l'open source et apportera des contributions positives à l'open source au pays et à l'étranger avec davantage de développeurs communautaires.
 
-The development of Wukong benefits from open source and vice versa. In the future, Wukong CRM will still uphold the idea of "embracing, openness, cooperation and win-win, creating values". We will keep moving forward with more community developers to make more contributions for the world's open source.
+Site officiel: http://www.5kcrm.com
 
+Site officiel: http://www.72crm.com
 
-Official website：[http://www.5kcrm.com](http://www.5kcrm.com/) / [http://www.72crm.com](http://www.72crm.com/)
+Forum: http://bbs.72crm.net
 
-
-DEMO：[demo9java.5kcrm.net](http://demo9java.5kcrm.net/) (Account：18888888888   Password：123456)
+Adresse de démonstration: demo9java.5kcrm.net (compte: 18888888888 mot de passe: 123456)
 
 
 Wukong CRM adopts the brand new mode of front-end and back-end seperation. The front-end vue packaged files have been integrated in the repository, so users needn't to package it.
